@@ -62,23 +62,6 @@ The raw file had quality issues, all fixed before analysis:
 4. **Recruit for quality** by growing referrals and the Diversity Job Fair.
 5. **Verify the pay gap** with a like-for-like review before acting.
 
-## Repository Structure
-
-```
-hr-analytics/
-├── README.md
-├── Data/
-│   ├── HR_DATASET_raw.xlsx          # original dataset
-│   └── HR_Cleaned_Dataset.xlsx      # cleaned, static values
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.xlsx  # interactive dashboard (PivotTables, charts, slicers)
-├── Report/
-│   └── HR_Analytics_Report.docx     # full written report
-├── Presentation/
-│   └── HR_Analytics_Presentation.pptx
-└── Image/
-    └── dashboard.png
-```
 
 ## Tools
 
