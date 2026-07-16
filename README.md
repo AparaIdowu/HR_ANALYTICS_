@@ -4,7 +4,7 @@ Analysis of 311 employees (2006 to 2019) covering turnover, recruitment, pay, en
 
 **Headline result:** turnover is **33.4%**, and it is not spread evenly. It concentrates in the **Production** department, in employees **under 30**, and in the years **2015 and 2016**.
 
-![HR Analytics Dashboard](Image/dashboard.png)
+![HR Analytics Dashboard](Image/Dashboard.png) 
 
 ---
 
